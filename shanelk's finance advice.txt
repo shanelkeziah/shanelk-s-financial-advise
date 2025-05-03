@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ShanelK Financial Advice</title>
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family: Verdana, sans-serif;
+            padding: 30px;
+        }
+        header {
+            background-color: #009688;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            text-align: center;
+            border-radius: 12px;
+        }
+        section {
+            margin-top: 25px;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #009688;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        ShanelK Financial Advice
+    </header>
+
+    <section>
+        <h2>Welcome!</h2>
+        <p>Hi, I’m Shanel-Keziah, your future financial advisor! I help young people learn how to grow smart with money—one tip at a time.</p>
+    </section>
+
+    <section>
+        <h2>Top Financial Tips</h2>
+        <ul>
+            <li>Save a little every week—even small coins add up.</li>
+            <li>Spend only on what matters; avoid waste.</li>
+            <li>Learn before you earn—build knowledge before chasing riches.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I'm a young entrepreneur with a vision to help others become financially smart. I believe age doesn't limit greatness—and this is where I start.</p>
+    </section>
+</body>
+</html>
